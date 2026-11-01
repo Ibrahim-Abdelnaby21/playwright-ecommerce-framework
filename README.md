@@ -1,4 +1,5 @@
 # E-Commerce Test Automation Framework
+![Playwright Tests](https://github.com/Ibrahim-Abdelnaby21/playwright-ecommerce-framework/actions/workflows/playwright.yml/badge.svg)
 
 A scalable end-to-end test automation framework built using **Playwright and TypeScript**, covering essential user journeys on the [SauceDemo](https://www.saucedemo.com/) e-commerce application.
 
